@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestGPSProviders</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gps_provider">GPS Provider:</string>
+    <string name="network_provider">Network Provider:</string>
+    <string name="passive_provider">Passive Provider:</string>
+    <string name="btn_refresh_providers">Refresh providers status</string>
+    <string name="btn_refresh_results">Refresh result</string>
+</resources>
